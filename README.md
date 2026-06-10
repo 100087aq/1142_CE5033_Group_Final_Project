@@ -1,0 +1,2 @@
+# 1142_CE5033_Group_Final_Project
+統計方法與資料採礦期末分組專題
