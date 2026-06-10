@@ -38,6 +38,6 @@
 ```text
 Group_Final_Project/
 ├─ main.ipynb   --主要程式碼
-├─ ai_student_impact_dataset.csv   --原始資料
+├─ ai_student_impact_dataset.csv   --原始資料集
 └─ visualizations/   --可視化圖表(包含EDA、kmeans、association_rules的輸出圖表)
 ```
